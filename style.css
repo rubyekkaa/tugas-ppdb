@@ -26,6 +26,7 @@ h2 {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  padding-top: 90px;
 }
 
 .daftar {
@@ -35,6 +36,9 @@ h2 {
   padding-bottom: 10px;
 }
 
+.cara {
+  padding-left: 190px;
+}
 .horizontal_center {
   border-top: 2px solid #999;
   height: 2px;
